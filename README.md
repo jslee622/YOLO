@@ -1,2 +1,2 @@
 # YOLO
-test
+YOLO Object detection
